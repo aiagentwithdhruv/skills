@@ -1,0 +1,616 @@
+Hello guys, welcome back to the new
+ 
+video and today I'm going to introduce
+you to Claude design and the Claude
+design is a new product that is launched
+by Anthropic and it is very interesting
+because it is going to solve one of the
+problems that we have been facing with
+Claude code and wipe coding in general.
+So with wipe coding generally what used
+to happen is we used to open a new
+folder, start with a prompt and then the
+project gets created. Then we keep
+building on that. But what if you want
+to have a design system where everything
+you create follows a particular design.
+So it doesn't matter if it is a website
+or if it is an app or if it is a
+presentation or if it is a image for
+your Instagram, whatever it is, how
+everything can follow the same design
+system. So this problem is there both
+for new projects and also for existing
+projects. So if you have an existing app
+and you already have a design system for
+that app. Let's say you want to build a
+prototype for that app. Now when you
+start with Claude design, it can extract
+the design system from your existing app
+and then it can create uh new features
+or a new parts of the app
+using the same old design system that
+you already have. So that is a key thing
+here.
+It can create a new design system from
+scratch or it can extract from your
+existing design system and then create
+new designs from those existing design
+language that you already have. So that
+is the main thing about
+Claude design.
+And the next thing is
+if you have any existing logos or brand
+colors, you can input all of that and
+then create a new design system and then
+with that you can create more designs.
+Okay? Here there are few items as an
+example. You can create a prototype.
+This can be a web app or mobile app. It
+can be anything. And then you can create
+a slide deck from an existing design
+system or it can be anything. So once
+you create a design system, you can use
+the same design language for any project
+of yours. So that is the key thing about
+Claude design. So now that we have
+understood this, let's move on to the UI
+and let's explain what are the different
+features available in the UI. Let's see
+how the UI structured so that you're
+able to understand the Claude design
+better.
+Right now, Claude design is structured
+in a certain way. When you create the
+design, you can choose a design system.
+Okay? But this is choosing the design
+system is totally optional. You can
+directly create a design even without
+the design system. And then we have a
+design system. So let's say if you want
+to create a new design system, you can
+create it by creating this design
+system. So when we go back into the
+Claude, I have created a few things. So
+let me explain this. In the UI when I go
+into your into my designs,
+you can see there is two types of
+projects. So here you can see all the
+design systems are marked in a slightly
+orangeish color and all the designs are
+marked in the gray colors. Now in order
+to create a design, you have to create
+it over here. All right. So you can see
+anything we create here is called as a
+design. As you can see here, we have a
+drop down here called as design system,
+but we have no option to create the
+design system right here. So if you want
+to create a design system, what you need
+to do is you have to go into the design
+systems over here and then here you can
+click on the create design system. So
+this is the screen which allows you to
+create a design system. So this page
+allows you to either create your design
+system from scratch or you can extract
+the design system from your existing
+files as well. And you can either give a
+little bit of info and with that you can
+create a design system or you can give
+lot of info also. So let's see what are
+all the inputs you can give to create a
+design system out of that. So first
+thing, just give a text input about your
+business. So here you can see company
+name and blurb. Basically you can say
+this is my company name and this is the
+so and so about my company. You can also
+give about what you want to create for
+your company. Let's say if you say a
+website and a mobile app, it is going to
+cover all the UI elements of the mobile
+and also the elements of the website. In
+that way you can mention about both
+about the company and what you want to
+build. So that will be helpful here. And
+this is the only required field. Just
+with this you can create your design
+system. But if let's say
+you already have an existing design
+uh that is already built. In this case,
+you can directly link your
+the code on the GitHub repo. You can add
+the GitHub repo here so that Claude will
+read the code that is available and then
+extract the design elements from there
+and then create a new design system out
+of that.
+So I believe like I discussed, so the
+reason they created it because if people
+wanted to create or wipe code any new
+feature which follows the design of
+their existing application, they can use
+this feature.
+All right. So this is why it is very
+helpful. And the next thing, let's say
+the code is not on GitHub. You have the
+code locally on your computer. You can
+just drag the code base over here. So
+like they have mentioned here, just the
+UI elements of your code, you can just
+drag that folder over here and then that
+will be get added.
+Or if you have the design in a Figma
+file, you can attach that Figma over
+And then finally these are all places to
+add your files. So if you have fonts,
+logos or any other brand assets, you can
+attach them here. For example, if you
+attach your logo, it is going to analyze
+the colors from your logo and then use
+those colors
+when it's the design system. So the logo
+is the most quickest win here. All
+right. We just saw how you can create a
+design system. So next let's see what
+will happen after the design system is
+created. Once the design system is
+created, you will see a page like this.
+Let's say you asked for a landing page.
+So I gave a certain prompt here where I
+asked for a certain landing page with
+all of the content given. So then when
+creating the design system, it
+automatically created a sample landing
+page for me. So as you can see here,
+this landing page was created just using
+the text which I gave in this box. So I
+didn't attach any of the fields here,
+but it created this landing page just
+from my text input. And so now the
+landing page is created. Below the
+landing page what we see here is all of
+the different UI elements. So for
+example, what is the body text and what
+is the heading?
+How does the heading look like?
+All of these things you can review and
+you can review them individually. So
+when you say looks good, it's going to
+mark it as a tick mark over here. And
+then you can say this is good. And all
+of these things you can review and
+approve it. So you can see the color
+scheme and how the background is going
+to look like. How the text dark surface
+is going to look like. All of these
+things you can see and you can also see
+the badges, how the badge will look
+like. So every single UI element that is
+required to build the particular element
+that you asked for, it's going to get
+generated over here. So now Claude has
+done two things. One, it has built all
+of the UI elements and it has also built
+this the landing page itself.
+And then now it is asking you to review
+here. So you can review needs review
+this eight. So you can say looks good or
+you can say needs work and then describe
+how you would like to change it. And
+next, once the
+design system is ready, uh you will also
+see the design files. So here you can
+find all of the code which Claude has
+generated
+in order to create this design system.
+So here you can see it is organized by
+the components and read me and a page.
+And the good thing about this UI is that
+if there is any page, like for example,
+the page that we saw here, all of these
+pages are openable inside Claude design
+itself. So when you double click on
+this, it's going to open that page and
+you'll be able to see that full screen.
+Now once you reach here, you get
+somewhat like a lovable like experience
+where you can ask for changes over here
+and see those changes happen on the
+right side.
+So at least for making the edits, it's
+quite user-friendly. Making this to
+production, it is a bit complicated. I
+will explain later when we come to the
+export part. But here you get a lovable
+like experience
+where you can just ask for changes here
+and get see those changes on the right
+portion of this video where we are going
+to see how you can make edits to this
+page that we got here. In my case, it's
+a web page, but it could be any design.
+All right, presentation or web app or a
+mobile app, it could be any design. All
+right. So now let's look at the five
+ways you can edit once you get a design
+in Claude design. So the first way is to
+prompt on the left side like we saw. So
+you just go and then type here and let's
+say make the heading smaller. It will
+make that change.
+And this is the first way. Next way is
+to use the edit mode. So this is similar
+to the visual design that you have in
+lovable where you just click on edit
+and you get some controls over here and
+then you just select the
+element. So any element you hover over,
+you're going to see this outlines and
+then you click on this and here you'll
+get all the controls.
+You can see how easily I'm able to
+change the font size.
+So any change that you do in this
+edit mode, it's going to get changed
+right away.
+And when we click on this, you can see
+all of the settings. And here as well,
+you can see the colors and everything.
+So editing is quite easy without using
+any AI. So this is not using any AI.
+Whatever change we are doing here is
+getting applied directly to the code. So
+that is the second way you can edit. And
+the next way
+is you can do comment. Okay? In comment,
+there is actually two options.
+So you can either send a single comment
+or you can comment in batches.
+Okay. We'll see how you can do that now.
+I'm going to click on comment. Again,
+you get the outline similar to how we
+did the edit. You can click here and
+then I let's say make the text bigger.
+So, now what I can do is I can either
+send it to Claude directly, where you
+can see the comment is already loaded
+here. Once I send directly, what will
+happen is Claude will start applying the
+fix immediately. But, if you have lot
+more comments here that you want to add,
+so you want to go through the whole page
+and add multiple comments, what you can
+do is you can just click on comment and
+only this particular comment will be
+saved.
+And like this, you can add all the
+comments together. So, for example, I
+can say change this icon and then
+comment it. Like this, I can select all
+the comments together and then send it
+into Claude. And it will fix those
+issues that I just mentioned.
+So, you can turn off the comment mode
+again by clicking on here. So, we saw
+three ways of editing the design. So,
+let's go to the fourth way, which is to
+use tweak. So, tweak is quite fun,
+different kind of a way. Let's say there
+is something you want to edit in the
+text. So, you can see there are some
+settings over here,
+but I don't see letter spacing. So,
+let's say you want to tweak something
+which is not available here or you want
+to try to change something which affects
+the whole page. So, for example, if you
+want to change the entire color scheme,
+you don't want to go back and forth
+asking AI to do something and I don't
+like that, change it again. In that
+case, you can go to tweak and then say
+something like
+I want to try a few more color schemes.
+Give me five to 10 color schemes which I
+can switch between.
+So, you can give something like this and
+it will give you a actually color switch
+switcher like this. So, right now this
+is not a color switcher, but you can
+imagine you will get a color switch
+switcher like this, where you have the
+control to adjust it yourself and then
+once you like something, you can just
+make sure you can fix that in the
+comment.
+So, if you want more fine-grained
+control, you can use the tweak feature.
+So, the tweak is something where you can
+turn it on and turn it off and then
+it'll go off. So, what we are doing is
+basically trying to replace what we do
+in Figma or whatever a designer would
+do, fine-tune the design elements to
+your preference, you can use the tweak
+feature. Okay, so now we covered the
+fourth item of editing and then let's go
+to the last one, which is draw mode. So,
+another option that you have
+is let me get out of the edit mode. Now,
+when we go into the draw mode, you can
+draw this
+and just keep your cursor over here and
+then you can type add icons
+for this.
+So, you can say something like this and
+then once you click on send, it will
+take a screenshot of this page and then
+it's going to send to Claude for making
+that change. So, these are the different
+ways of editing you have in the Claude
+design. So, once you create a design
+system, if you want to let's say create
+a new designs in that using that same
+design system, you have two options. So,
+the first way is you see here, we have
+the index page. So, similarly, you can
+create more pages just by clicking on
+this
+new chat button. So, when you click on
+this, you can click on new chat and
+it'll open a new chat over here
+and you can just type what you want to
+create. So, you can say create a
+presentation with the so-and-so content
+and it'll create that presentation. And
+it will create a new page over here. You
+have the option to create new designs
+within this interface itself without
+going back.
+But, all of these designs will live
+inside the design system itself, so that
+it has more context. It the design
+system is more elaborate. And the next
+option you have is you can go back into
+this page and now that we have the
+design system, so here you can see the
+list of the design system that we have
+and now you can create something new.
+So, I want to create a mobile app for
+using the same design system and then I
+can create it. Now, when you create
+this, it's going to create something
+like you see here. So, when we click on
+it, it's going to open an interface like
+this,
+where it's going to have the same kind
+of a user interface, where we see the
+design files and we're able to see the
+the HTML file, the web page as well. All
+right. So, whenever you will reach like
+a empty chat area like this, where here
+you can mention what you want to create.
+All right. So, whenever you're going to
+create a new project or a new design
+from here, you'll be taken to a page
+like this, where you have to chat. You
+can chat on the left side and ask what
+you want to create and it's going to
+create using the
+design system that you selected. Okay?
+And whenever you ask for something, like
+let's say you want to create a website
+or a web app, Claude design is going to
+ask for questions like how you want the
+design to be and then you can answer it
+right there on the page itself.
+And once you submit those answers into
+Claude, it's going to go ahead and
+create that page or anything that you
+wanted for you. So, this is how you can
+create new design from the existing
+design system. And once you get the
+design ready, you have the option to
+present it. Like you can present it in
+this tab or you can present it in a full
+screen or you can present it in a new
+tab.
+So, all of these options you have for
+presentation. Let's say you want to
+present the prototype to someone on your
+team, you can do it with this option.
+Okay, so now we are going to look at the
+export options that you have. So, you
+can export both the design or a design
+system, both you can export and there
+are multiple export options as you can
+see here. Some of these could be a bit
+technical. I'm just informing you in
+advance that this could be little bit
+technical, particularly when we go into
+the code, but there are many different
+ways you can export it. So, when you
+download the project as a zip, what you
+will get is like a file like this, where
+there is a readme. Now, this readme is
+going to give instructions to the agent,
+so read this particular folder or a page
+and then implement it in your code base.
+So, whatever code base that you opened.
+So, that is the thing and one more thing
+that's quite important, the design
+medium is HTML, CSS, JS. These are
+prototypes, not production code. So, you
+need to recreate them. It could be
+React, Vue or native HTML or it could be
+a native app. Wherever it is, we it
+needs to be recreated. You cannot
+directly use it. Okay? So, that is the
+reason why this kind of a readme is
+there.
+And inside it, there is the landing page
+HTML, which has the actual landing page
+and all of the components
+and the assets, all of these are
+organized here. But, basically what this
+needs to be done is this particular HTML
+page, you can't directly use it in
+production. And the reason is because
+this used for testing and prototyping.
+Usually in React apps, you need to take
+a build after the coding part, but here
+it's going to directly run the build in
+when opening the HTML itself. Because of
+that, it's going to be slower. So, there
+needs to be additional step where you
+convert this into a regular HTML or a
+React application.
+So, that is the reason why we can't use
+this directly in production.
+All right. So, this is quite important
+to note. It's basically a prototype and
+it needs some additional work to ship to
+production. What I just said, it applies
+only in case you're designing something
+for a website or a web app. If it is
+something like a slide, you can directly
+use as it is. And then we have multiple
+things over here.
+You can export as PDF, PPT or you can
+send to Canva and edit it there as well.
+And then you can export as a standalone
+HTML. So, right now it's it is not a
+standalone HTML. It is using React code
+and then it's taking a build and then
+it's displaying React code without the
+build step. But, if you want it to be a
+standalone HTML, you can click on this
+and then the Claude is going to write a
+code to make it into a standalone HTML.
+Next, we have handoff to Claude code.
+So, when you click this, it's almost
+same as downloading the zip file, but it
+will just be a single prompt. So, what
+this prompt will say is that fetch this
+design file
+and read the readme and then implement
+the relevant aspects of the design in my
+particular code base. So, if you already
+have your existing code base, just copy
+this prompt and paste it into Claude
+code. So, it's going to download the
+design files, read the that sample HTML
+file and then implement that design in
+your existing project. So, that's how
+you can make use of this prompt, like
+handoff to Claude code. Okay? And there
+is an option to send to Claude code web
+as well, which you can try if you want,
+but most people probably would be using
+this.
+All right. So, now we saw all of the
+export options that you have in Claude
+design. So, next let's look at the usage
+limits. This is quite important.
+Now,
+one important thing to note here is
+right now, Claude design has its own
+usage limit. So, it does not have the
+usage limit of the rest of the Claude
+and the Claude code. So, as you can see,
+when we go into Claude.ai and go into
+settings and usage, you can see Claude
+design has a separate usage. It's not
+included in the existing usage and
+depending on the plan that you are on.
+So, if you're on the pro plan, it's
+going to have certain amount of usage
+that you can do and if you're on the max
+plan, you're going to have a higher
+limit. And what I've noticed is it's
+getting filled very quickly. So, I built
+a lawn this many, four design systems
+and three designs.
+I'm on the max plan, the $200 plan
+and the limit was over. So, it is the
+limits are quite less even on the max
+plan. They're still in the kind of the
+testing stage. So, the limits are very
+low right now and I assume eventually
+it's going to be increased and it's
+going to be taken from this main usage
+itself, which might be much higher than
+the current limits. So, the limits that
+we
+are right now is quite low. So, that is
+a thing to note and I actually the
+reason I was not able to test the cloud
+design in this entire video
+is because I finished up all of the
+usage
+and it's going to reset next Tuesday
+only. So, I didn't want to wait for a
+week. So, I just showed everything that
+I have understood from cloud design in
+this video itself.
+So, this is everything about cloud. I
+hope this was useful to you. We have
+come to the end of this tutorial. And I
+have a quick announcement to make. As as
+there is everyday there is news things
+happening in the AI and most people are
+not aware about what AI can do and how
+they can automate a lot of the tasks
+that they do with AI. So, even though AI
+is advancing a lot and the people in
+tech know a lot about AI. Many people
+outside of tech are unaware of the
+advancements in AI. So, to solve this I
+have created a community and a free
+workshop
+to give you a glimpse of that community
+and the course that I'm building. So, if
+you want to learn about AI and
+if you are a working professional or a
+freelancer or a business owner who wants
+to upskill in AI and know exactly how
+you can use AI how you can use AI to
+improve the work that you do or improve
+your business
+you can join this workshop. It is a
+90-minute workshop. It is free
+and it's happening every Tuesday and
+Thursday.
+Please go to aifreedom.life.com.
+So, that's the domain where you can
+register for the webinar. So, it's
+called as
+aifreedom.life.com.
+Just go to that webpage. It is also I
+will also link it in the below this
+video. So, just go to that website and
+register for this free webinar workshop
+and I will be teaching you the
+fundamentals and the basics of AI and
+the roadmap and on what we need to learn
+to get hired.
+So,
+that's the update. So, if you found this
+video helpful, please do a thumbs up and
+if you have any additional questions or
+additional topics you want me to make
+videos on, make sure you share it in the
+comments
+and subscribe and make sure you join
+this workshop, okay?
+And all of the updates about AI and
+everything I will be giving in the
+workshop and in the community and this
+workshop is going to let you know how
+you can join the community as well.
+All right. So,
+thanks a lot for watching.
+I will see you in the next video. Thank
+you.

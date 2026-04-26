@@ -9,7 +9,7 @@ description: MCP server for AI-powered macOS control — apps, display, audio, f
 
 ## Location
 
-**Project:** `/Volumes/Dhruv_SSD/AIwithDhruv/Claude/Mac-Automation/`
+**Project:** `/Users/apple/Aiwithdhruv/AI Development/Claude/Mac-Automation/`
 **MCP Server:** `Mac-Automation/macos_mcp.py`
 
 ## Tools Reference

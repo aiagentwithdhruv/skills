@@ -1,0 +1,1169 @@
+So, in just 20 minutes, I was able to
+ 
+transform my AI Automation Society
+website from this to this where now, as
+I start to scroll, we go on this
+journey. We go through this scene where
+we have these different cards that pop
+up, and you can see they're kind of 3D.
+They're interactive. And as we keep
+scrolling, we're going more through the
+journey. We've got this next slide. We
+keep going here. We've got this one.
+Everything you need to master a
+automation. And you can see that this is
+a much more interactive and polished
+feel than the way that it used to be.
+We've got the final call to action to
+join the movement. And you can see we've
+kind of went through the journey of like
+an evolution of technology, which I just
+think was super super cool. And what
+you'll notice is I was able to take the
+brand feel and the vibe and the colors
+and all of the copy and I was able to
+just move it over really easily. So it
+has all the same important information,
+but it's just a much more interactive
+feel. And then 20 minutes later, I was
+able to do the exact same thing with my
+personal website. Here you can see it's
+got sort of like dark vibes. It's got a
+bunch of statistics. It's got different
+things that I'm up to. And I just kind
+of transformed it to be a little bit
+more dynamic. You can see it's me
+sitting on some floating island in the
+middle of space and I'm working on a
+computer, but as we scroll down, we have
+the same elements. We have the same
+copy. We have the same feel, but now it
+just has a lot more depth and it just
+feels a lot more polished. So, what I'm
+going to show you guys today is how we
+set up websites like this using Claw
+Design. We can have different elements.
+We can have different feels, and
+everything is designed in a way that is
+just way more engaging and professional.
+And I've been trying a lot of different
+things here. Here you can see I've
+already eaten through my design quota
+and I've already spent over $200 in
+extra usage just playing around with the
+stuff. So, not only am I going to show
+you guys the tips and the tricks that
+I've learned, but I'm also going to go
+over some important stuff like how do
+you actually not drain your limit faster
+and how do you get the most out of what
+you're doing here. I don't want to waste
+any time today. Let's just go ahead and
+get straight into the video. All right,
+so I'm about to show you guys everything
+you need to do step by step to take an
+idea from your brain onto an actual
+website and deploy it so that other
+people can actually view it and access
+it. Okay, so let's say you want to
+transform a website. All you would
+really want to do is if this has some
+sort of codebase in GitHub or cloud code
+or wherever this actually lives, you can
+basically just grab that GitHub repo or
+you can grab the folder with all the
+contents and just give it to cloud
+design. So that's kind of like the first
+method. The other method is what if you
+just have an idea and what if you just
+need to build a website from scratch.
+Well, let me show you what I'm doing
+here inside of actual cloud chat in
+order to give us an example to build
+together today. So I said I want to
+build a website using claw design and
+I'm looking for some inspiration on the
+type of website that I should build.
+What is the product or service that
+we're offering and what should the hero
+section and actual copy be like? Help me
+basically build a brand and I you know
+give me the spec for this. So it came up
+with this idea of having a nightly
+windown drink. One scoop of magnesium
+glycinate blah blah blah but the brand
+is called LOL and it gives me the
+positioning and the voice visual
+identity and what the site should look
+like. So that's awesome. And then I come
+back and I say, "Cool. I want to create
+a video that will play in the background
+of the hero section and it will just be
+on an endless loop. I need the video to
+fit the vibe and I want it to have a wow
+factor so that when people go to the
+website, they're like, "Oh, wow. This
+is, you know, professional." There
+should not be any text, but it should
+also have room where we could insert a
+block for the hero text and the subtext.
+So, what I'm asking it for is an image
+prompt for the background and then a
+video prompt to animate that. So, it
+spits out an image prompt right here. So
+basically the theme, the concept is a
+dark ceramic mug with a warm liquid
+inside and then just kind of having that
+be, you know, steaming in the
+background, which would give it a nice
+feel and it will fit the vibe of like,
+you know, sleepy time tea or whatever
+this is supposed to be. So it gives me
+the image prompt and I'm going to go
+over to key.ai. I'm using Nano Banana 2.
+So I drop in the image prompts right
+here. I make sure that it's a 16 by9
+ratio. And then I get this image, which
+as you can see is basically just a mug
+with some sort of liquid. This is where
+we put the hero text and the subtext,
+which is nice. And then it's steaming.
+And then I take this image and I go back
+into a different tab in Key and I go to
+Cance 2.0 and I put that image in as the
+first frame and the last frame. And I go
+ahead and I grab that prompt down here
+for the video prompts in order to
+animate the image. The key thing here is
+that the camera isn't moving. It's
+basically just a still frame or a still
+video of this coffee or whatever it is
+being animated. So, here's what this
+looks like. As you can see, it's just
+steaming and it looks really nice. Now,
+imagine this is the background of a
+website when you've got text over here.
+Could look pretty nice. Okay, so now we
+have those initial elements. I'm going
+to open up Cloud Design and I'm going to
+go ahead and do a new prototype. And
+we're going to start with a highfidelity
+prototype. I'm not going to use a design
+system because in this case, we're kind
+of starting our own new brand. And maybe
+we can build a design system around this
+later. But for now, I'm just going to go
+ahead and say none. And we're going to
+call this LOL website because that's the
+name of the brand. So, I'm going to hit
+create. And what it's going to do is
+it's going to spin up this little
+lovable like interface. If we wanted to,
+we could start with a sketch over here.
+So, we could literally come in here and
+say, okay, um, you know, here's going to
+be our website. This is where, oh, I
+wanted another square.
+This is where we're going to have like
+the main video. So, it'll be the
+background of the hero.
+And I could come in here and say like
+this is the um hero background video.
+And then we want another box over here
+which will be like the hero text and
+subtext.
+Hero text. And then I'll come down here
+and just say
+hero subtext. We could also probably
+want like some sort of navbar up top.
+So, this is like, you know, the logo
+might be over here.
+Oops, that's not how you spell logo. And
+then we could also have like, you know,
+shop or something like that. And so,
+this is just a way for us to sort of
+visually get on the same page as Claude.
+And then, of course, you can see down
+here, it would be looking at the sketch.
+So, let's just go ahead and keep this
+for now. Obviously, if you have a better
+vision, you can put some more time and
+attention into this. You could also lay
+out the rest of your site down here,
+too. Um, and then you can add like notes
+and stuff, but for now, let's just leave
+it like that. And what I'm going to do
+now is I'm going to drag in that actual
+MP4 that we got from Cance. You can see
+that it's uploading the file and it's
+right here. Now, this was an 8second
+video. It's not going to let you upload
+videos that are like 30 seconds long.
+There's a cap and I believe it's around
+30 or 40 megabytes. So, just keep that
+in mind. I've gotten away with uploading
+15-second videos. I tried a 20 second
+video and it worked. But, just keep that
+in mind. So now what I want to do is
+Claude already did all the hard heavy
+lifting for us. You know, if I come back
+all the way up here, it basically gave
+us the brand and all of this stuff with
+a visual identity, the different
+sections, the footer, and you can see
+that it also has like, you know, colors
+and stuff. So I'm going to take this.
+I'm going to go back into claw design
+and I'm just going to paste that in. And
+that gets pasted in as like a little bit
+of an artifact because it was a long bit
+of text. So now I just explain what I
+wanted to do. Hey Claw Design, I've
+given you a couple things. I've got a
+sketch which is just my basically idea
+for the hero section. There's going to
+be a lot of little sections beneath
+which you will be on your own to figure
+out what that should look like. I've
+given you the sleep background.mpp4.
+This is a video that I want you to be
+playing on an endless loop in the
+background and you should see that the
+hero text will be on the left side
+compared to that. And then I pasted in
+23 lines of text, which is kind of the
+brand identity, the feel for the
+website, and how you should write the
+copy. And just go ahead and write all
+the copy for for now. We can make tweaks
+later. Okay. So, I'm going to paste that
+in and go ahead and shoot that off. If
+you guys are curious about how I'm doing
+voice to text, check the description for
+the tool. Um, I'm using extra usage, by
+the way. But, it's going to start to
+build this out and if it has any
+specific questions for us, it will come
+back and it will ask those questions.
+But right now, it looks like it's just
+going to run. And also keep in mind this
+is right now using claude obus 4.7. So
+honestly like the planning phase I like
+to use obus 4.7. If we wanted to later
+make some iterations and we wanted to do
+other things we could bump the model
+down. But keep in mind this is going to
+use opus 4.7 which is the most expensive
+model that is publicly available to us
+right now. But I love how we still have
+the feel of of claude over here because
+it's telling us what it's thinking. We
+can see what it's doing. It makes a
+to-do list. So it's very easy for us to
+just check in on how how it's going and
+where we are. It's creating a design
+system here. So, we've got kind of a
+color palette. We've got text right
+here. And it's honestly best practice,
+especially when you're getting used to
+Cloud Design, to just watch what it's
+doing. And go ahead and stop it if it's
+going down the wrong path. Because if
+it's going down the wrong path, it's
+going to build stuff and that's going to
+use a lot of your session limit. So, you
+might as well stop it and kind of
+refresh or recorrect it before it wastes
+all that time. Now, while this is
+running, I want to show you guys the way
+that I was able to get some other
+inspiration. There's this really cool
+site called motions.ai. And shout out to
+my guy Aiden. He showed me the site and
+I was like, "This is awesome." So the
+way this works is you can basically look
+at backgrounds and you can look at
+actual other sites for inspiration. So
+what you'll notice here, if you guys
+remember my version of AI Automation
+Society, so this website where we have
+this kind of scene in the background and
+as we scroll through, we have these
+visual cards. It's like a journey for
+the POV of the actual end user. I was
+inspired by this one. So if I open this
+up, you can see this is a scroll
+journey. It's got these 3D dynamic
+elements in the cards and I was able to
+literally just copy this prompt and I
+gave this to Cloud Design and I said,
+"Hey, this is a cool concept. I want you
+to replace the background image with or
+sorry, not the background image. I want
+you to replace the background video with
+this background video." And I dropped in
+mine and I said, "I want you to update
+all of the copy and the brand colors and
+feel to my brand." And then I gave it in
+like a design system. So that's
+basically all I had to do to turn my
+Amation Society into this. And there's
+so many other ones. Most of these are
+free. I am on the paid plan, which is
+literally just 99 bucks for for life.
+So, that's pretty cool. But some of
+these are going to be premium, some of
+these are going to be free, but like I
+said, you basically just find the ones
+you like, find the ones that fit your
+brand, hit copy, give that to Claw
+Design, and it will recreate it. And
+then you're able to just tweak from
+there. And then if I go to backgrounds,
+you can see that there's just a bunch of
+backgrounds that we can look at. So, for
+some reason, it's not registering that
+I'm a premium member. Um, but either
+way, let's say we really like this
+background. I could copy this. If I open
+up a new tab and paste that in, it
+basically just gives me that animation
+which I could obviously go ahead and
+download and then display behind the
+text on my website, behind the different
+sections on my website. Considering that
+most of the stuff here is free, head
+over to motion sites and just play
+around. It's going to give you some
+inspiration and there's a lot of cool
+elements in here that you can work in.
+So, also like if you guys remember my
+Nate Herk one, I'm sitting here on a
+floating island and I'm working on who
+knows what and I was inspired by some of
+these. You know, this one was kind of an
+abyss. This one was someone working. So,
+I'm not necessarily recommending you
+just copy these elements and put it on
+your site. You certainly can, but this
+is just a good way to sort of get a
+little creative and get some
+inspiration. Okay, but we are back in
+Claw Design now. And what we have is we
+have our first iteration, which I mean
+this looks awesome. Like this text LOL,
+this text right here. This all feels
+very on brand. We can see here that as
+we scroll down, the image is a little
+bit dynamic or sorry, not the image. I
+keep saying image. The video is a little
+bit dynamic. I think this all looks I
+mean just amazing. It feels very on
+brand. We keep going down and we can see
+we get some background. We get some
+context as far as like what the product
+the the problem that it solves. And this
+is incredible. Just once again, all of
+this was generated by Claude. The idea,
+the design, the prompts, not the actual
+images and videos, but the prompts. And
+I I love this. Now, what's really cool
+about this and a great way to save
+tokens is that you can just iterate
+right here. You know, if you put this
+prompt into Cloud Code, you would maybe
+get something that visually looks like
+this. But in order to go back and forth
+and make tweaks, you would have to like
+take some awkward screenshots or you
+would have to be very specific. But
+right here, what we can do is we can add
+comments. I could basically just click
+on something and we can change how it
+works. So, for example, the how it works
+button. Let's say I wanted to make this
+a different color. Maybe like the gold
+color. Go ahead and make this button the
+color of the comma in the hero text.
+Make it a gold accent. And so now I can
+just say, "Hey, send this to Claude."
+and it gets the exact comment about the
+exact element that I was referring to.
+So, it's not going to get confused. We
+can also do edits straight in line. So,
+if I came here and I was like, okay, I
+don't want this M dash that looks very
+AI. I could just delete it and then I
+could just close that out and it's going
+to make that change for us because I was
+just able to edit it right there. So, I
+can change the text. I could even, you
+guys noticed, change the size. So, if I
+wanted this all to be a little bit
+smaller, I could just come into here and
+I could just go, okay, make that 15 or
+make that 10. And it's going to change
+it right in real time. And then Claude
+just makes the change for us. You can
+also draw. So like right here, let's say
+I don't love the way that the video just
+kind of ends so abruptly. I can just
+kind of make a circle around this. And
+then I can type and just say I don't
+like how this ends so abruptly.
+Add a transition
+overlay or gradient so it feels
+smoother. And I shoot that off by
+hitting send. Now, when I do the drawing
+thing, the little comments get stuck
+down there. So, sometimes it's hard to
+see. That's just kind of a UI bug. Once
+again, this is in research preview, so
+little kinks will get ironed out. But
+that's a really nice feature to be able
+to just draw. Okay. So, you can see that
+that button changed colors. I like that.
+Everything else that we have changed has
+been changed. And it hopefully, you can
+see it added a little line here. So,
+that's not exactly what I wanted. I
+would iterate a little bit. I was kind
+of hoping for sort of like a gradient
+transition, but either way, at least it
+knew exactly what I was referring to.
+Okay, so anyways, at this point, we
+would read through all the copy and we
+would iterate. And like I said, I think
+that this looks pretty solid. But now,
+if you are not someone who's creative,
+you might be like, "Okay, what do I even
+add?" If you are someone who's creative,
+you're probably going to have a lot of
+features that you want to add. And at
+that point, you'll iterate, make some
+changes, make some prompts. But let's
+say you just want to know what else is
+possible, and you want to see what
+Claude can come up with. Watch this. You
+come into here. this is a really great
+iteration one. I want to see what else
+is possible. I want to see how this
+website could be improved. So, just add
+a bunch of things that I can tweak and
+put those on there for me. Different
+colors, different sliders, different
+panels, and just give me a bunch of
+things to play with. And this is one of
+the biggest benefits and things that I
+love about Claw Design, even compared to
+other, you know, website builders, is
+that we have this tweaks panel right
+here. Right now, we have none, but it's
+going to add a bunch of tweaks that we
+can just play with in real time. And
+that way we're able to see, okay, I love
+this, don't like this so much. And it
+has helped me feel a lot more creative
+in times when I'm kind of sitting there
+lacking inspiration. Real quick, guys, I
+know we're going to be going over a lot
+of information today. So, I'm going to
+throw in everything that we're talking
+about here, all of the different things
+to keep in mind into a free resource
+guide that you can access for completely
+free by joining my free school
+community. As you can see, join the free
+community. This will take you to a
+automation society. You will go into the
+classroom and inside of all YouTube
+resources, you will be able to find
+everything, the document that I'm
+referring to. And I'm also going to
+include basically the zip file of this
+website if you guys want to extract it
+and understand how it works and how the
+scrolling animations work. You can dive
+into it and you can let Cloud Code or
+Cloud Design dive into it. But it's
+really quite simple. Like I said, I
+basically just said, "Hey, here's the
+video, but instead of just playing it, I
+want you to only associate each frame
+with like a scroll position so that as I
+scroll down or up, the video goes
+forward or reverses." So anyways, let's
+get back to the video. Okay, so our
+tweaks are here. And you can see on this
+right hand side, we have a ton of things
+that we could play with, which is just
+going to be so cool. So, let's start up
+at the top. We have a palette. So, this
+was the default. We could also go to
+more of a blue or more of a brown and
+more of a green or whatever these is. I
+I'm sure you guys can't tell a ton, but
+the colors here are changing. Now, you
+can see more. The background is
+changing. We can get sort of like a
+green. We can get more of a brown. We
+have more of a light mode here. So, this
+would let you play around with what you
+think fits the brand the best. And
+obviously, I don't like this because the
+hero looks weird. So, we could tweak
+that. I kind of like the brown. But
+anyways, what else? We have the accent
+hue. So, we can change this. You see how
+the hue was kind of like a gold? We can
+change this to see what other colors
+might look good with our main color
+scheme. For now, I really like the
+default, which was kind of over here,
+more of like a golden bronze. So, we'll
+keep it there. We have the text as well.
+So, I could switch this around, or
+sorry, not the text, the font. And I
+could play with different fonts to see
+what I actually like. And we can see
+where else it changes. So, it looks like
+this is changing kind of the primary
+font everywhere. This is kind of more of
+a secondary, but this is changing the
+main text everywhere. We could also see
+the headline slider. So, this can make
+it bigger or smaller. We can play around
+with the way that it wraps and
+everything. So, that's nice. The
+headline could be right and all
+uppercase. It could be lowercase, which
+actually I like. I'm going to keep it
+all lowercase. And then we can change
+the actual text right here. Of course,
+the hero layout we could play around
+with. Obviously, I don't want it
+centered. We want it left aligned
+because we made the video that way. So,
+we're going to keep that. But hopefully,
+you guys are starting to understand what
+I'm talking about now. We have sort of
+like this overlay we can play around
+with. We have the video dim that we can
+play around with. I'm sure you guys
+unfortunately you can't really see. I
+wish that they could move like I wish
+you could drag this tweak slider
+anywhere, but I'm sure that'll come. We
+have something called section rhythm,
+which I probably have to scroll down to
+see what that is. Okay, so this is
+basically just like the gaps between the
+sections. So, we could make that smaller
+or larger. We have the ritual card
+style. I'm not sure where the rituals
+are. Here they are. So, flat, bordered,
+or big numerals. I think I like the big
+numerals. So, yeah, I'm sure you guys
+get the point by now. We're able to just
+play around with the tweaks. And of
+course, we could just hit reset, which
+would reset everything. So, there's
+really nothing to lose here. Actually
+making tweaks and then saving those
+changes is going to save you more time
+and also more of your session limit than
+if you're just having a conversation
+back and forth with Claude. Because we
+all know how that can go if you just
+shoot off prompt after prompt after
+prompt after prompt. Because also think
+about the fact that if you were doing
+this in Cloud Code and you had all these
+tweaks that you wanted to play with,
+this is basically like, hey, I wonder
+what it would look like if the
+background was blue. And then you would
+have to go submit the prompt. cloud code
+would change the background. It would
+put it on a local host and then you'd
+look at it and be like, I actually don't
+like that. So then you would have to
+like revert back to the old version. And
+so that could potentially be two
+prompts. Whereas here, we can see so
+much stuff and test it out in a way that
+doesn't actually make us send more
+prompts and send more prompts. Now, one
+thing I noticed is I don't think there's
+like a revert button in lovable. You can
+just like revert back to previous
+prompts, which is nice. I don't see that
+here. But once again, this ability to do
+tweaks saves us from having to do a lot
+of reverts because we can say, "hm, I
+wonder what it might look like if the
+font was changed, or I wonder what it
+might look like if the spacing between
+sections was smaller." And then if you
+don't like it, it's as simple as just
+not doing it. So once you're good with
+the tweaks, you just turn that off. If
+you made any changes, it would just go
+ahead and start making those changes for
+you. And now what's awesome is you have
+this project set up. Whether you're
+doing this in cloud design or in cloud
+code, you can keep iterating because you
+understand the idea of how do you get a
+dynamic element like this or how do you
+do one of those scroll things where you
+just tell it that as you're scrolling
+you want it to, you know, play the
+frames backwards or forwards. So let's
+say we have this that we love and maybe
+down here we want to have like maybe a
+video of someone sleeping. That would be
+really creepy. But but now if you
+basically just break the website into
+sections. So hero section. Okay, cool.
+Section one. What can we do to section
+one to make this cool? Maybe we just add
+like a dynamic background where there's
+like shooting stars or something like
+that. And then section three, maybe we
+have like a little dynamic video of
+someone stirring coffee, you know? We
+can just kind of keep taking it section
+by section and that way it's not so
+overwhelming of, oh my gosh, I have to
+build a whole website. Just take it
+section by section and just use these
+principles. use Claude to help you think
+of okay for section two help me figure
+out like right here where what type of
+video should I have or what type of
+elements should I have and then okay
+cool make me the prompts and then I'll
+go into key and I'll make the the images
+I'll make the videos and then I'll bring
+them back into claude and you'll just
+keep iterating and I think you'll find
+that it's really really fun you have the
+fundamentals you understand how the tool
+works and now you keep going but now
+you're at the point where let's say
+you're good with this website you know
+you could also click on present you
+could open it up you could make sure
+feels good. You can make sure the
+buttons are linking to the right spots.
+And then what do you do next? Well, what
+we want to do is we want to get this
+into cloud code so we can push it into a
+GitHub repository and so that we can
+push that GitHub repository to Verscell.
+So, if that makes no sense to you at
+all, I'm going to explain it all. So,
+don't worry. What we're going to do
+first is we're going to click on share
+and we're just going to go ahead and
+download this project as a zip file or a
+zip folder. So, I'm going to download as
+zip. You could also just hit hand off to
+cloud code which would give you a
+command. You would copy this, give it to
+Cloud Code, and then it would be able to
+pull everything in. Today, this morning,
+I've been having issues with this
+command. It's been getting a 404 error.
+So, it's worked in the past. This will
+probably work by the time you see this
+video, but that's also an option. But
+the other option is you just grab the
+zip file. All right. So, here is that
+zip file. I'm going to go ahead and
+extract all. And I actually want to
+place this into a folder. So, I've
+already created a folder on my desktop,
+and it is called LOL website. So I'm
+going to click into the LOL website and
+I'm going to select that folder to
+extract it into. It kind of sounded like
+I was saying LOL website as if website
+was a wrapper like LOL website but now
+we have LOL website and this is the
+folder that we want to open up inside of
+Cloud Code. So here I am. I'm using it
+in the VS Code IDE and I'm going to go
+ahead and open up that project. Okay, so
+now that we are in here, we're going to
+open up Cloud Code and we're going to
+get started. You can see basically over
+here what we have is we have the
+background video, we have scraps which
+was our sketch and we have the uploads
+and we have the HTML. So this is
+basically our full project from claude
+design but now it's inside of cloud code
+and I'm literally just going to say hey
+this is a website project for our brand
+called LOL. All I want you to do is push
+this to a GitHub repository. Push it to
+a private repository and call it
+whatever you want. And because I've
+already used GitHub with my cloud code,
+it's going to be able to just push it
+and it's going to be able to create that
+repo. But if you've never done this
+before, all you want to do is go to
+github.com. It's free to create an
+account. You're going to log in and then
+basically you just need to connect this
+to your Cloud Code. So if you ask Cloud
+Code to connect it, it'll say, "Sure,
+just let me pull up the authorization
+page. You'll have to sign in." And now
+Cloud Code can talk to your GitHub, push
+changes, create repositories, things
+like that. And then the second piece of
+this is you're going to need to create
+an account at Verscell. So Verscell is
+basically just a place for you to host
+and deploy your web apps and your
+websites. So it should look like this.
+And when you sign up for Versell, you
+can sign up with your GitHub account,
+which makes it super easy because then
+you can just sync a GitHub repo to
+Verscell. Because if you think about it,
+when you have a GitHub repository, all
+this is basically is is its folders and
+its files and its code and GitHub stores
+them. So what you need to do is you need
+to get that code somewhere on the web.
+And that's what Versell does. And there
+you go. Super easy. I didn't have to do
+anything. It says your website is now a
+GitHub repo. I can follow this link to
+open it up. And this is the actual
+repository that we just pulled in from
+Cloud Design. Now, honestly, before we
+push this, we probably should have made
+sure that it worked. So, make sure that
+the website actually works as expected
+and open it up in a local host for me to
+view. Now, I'm actually glad that I had
+to do this because you you'll notice I
+said local host. So, what does that
+mean? Local host is just a local host
+that will basically display our website.
+And so if this comes back with something
+like localhost 3000, if you tried to
+give someone that URL, it wouldn't open
+up for them. It would open up whatever
+they have running on their own localhost
+3000, which could be nothing. I actually
+saw some funny tweets where it was like
+a a beginner getting into cloud code
+saying, "Look at this awesome web app I
+built." And they sent out the local host
+URL. And everyone was um obviously they
+couldn't open it. So here is the local
+host. It opened up our website. You can
+see we have the video playing. We have
+all of the text coming in dynamically.
+So everything is basically being
+transferred over from cloud design over
+to cloud code seamlessly. No issues. And
+now that this is actually a GitHub repo,
+let's connect this to Verscell to put it
+on the web so that I could actually give
+you a URL and you could view my website.
+So back in Verscell, you guys are going
+to be shocked at how easy this is. You
+click on add new. You click on add new
+project. And then right here, because
+I'm signed in with my GitHub repo or my
+GitHub account, I basically just click
+on this website and I say import. It's
+looking through my projects. It's going
+to pull in this project. And then I
+basically just say deploy. This will
+take maybe 60 seconds. And then it'll
+give us an actual URL for our website.
+Now, the cool part about this is if you
+ever make changes to your site, you
+basically now have a practice
+environment and a real environment. So
+if I'm on my local host here, you know,
+and I'm working inside of claude code
+and I'm doing things, basically what
+happens is I can make changes and I can
+iterate, but only I will see these
+changes. So if I wanted to change the
+copy or if I wanted to change the
+background video, but then once we're
+good with those changes, I come back
+into here and I say, "Hey, cloud code,
+push all of these changes to GitHub."
+And then when the changes come to GitHub
+and they come over here, forcel
+automatically grabs that and deploys it
+to the live site. So you have a very
+clean separation between what you're
+practicing with and changes that you
+might want to make and then saying,
+"Hey, cool. We love this. Push that
+public and then Verscell will grab it
+and then it will be live in like 30
+seconds later." So anyways,
+congratulations. You just deployed a new
+project on Versell. I'm going to go
+ahead and click on continue to the
+dashboard. And now we have an actual
+domain. So this is a you know
+lol-eite.cell.app.
+And if I open this up, aha. Okay. So
+when I open this up, it says 404 not
+found. So what do we do here? You go
+back into cloud code and you say so I
+just pushed that to GitHub and then I
+synced that to Verscell to host it on
+the web and when I opened it up it gave
+me this error message. What does this
+mean? How do I fix this? Do you need any
+more info from me in order to actually
+help me fix this? It was able to find
+the cause right away forcell serves this
+from the root of your repo by default
+but the repo has a different path
+instead. So that's why it can't find
+anything. So the fix is it needs to
+rename LOL website to index.html. And
+then look, it pushed those changes to
+GitHub. So if I now go to the GitHub
+repo, which was this one, and I give
+this a refresh, we should see here that
+we have two commits, which means that
+we've made two different pushes. So
+we've made a change. And then what
+happens if I go back to Verscell? So
+back here, you can already see the
+website is now rendering properly. And
+if I also click on deployments, we can
+see once again that we have a change
+that was made 1 minute ago, which was
+renaming to index.html. So now I could
+click on this domain and I can see that
+we actually have our real site just the
+way that we saw it on our local host and
+everything should be coming through
+properly because we've made that fix.
+Now one other quick thing I wanted to
+talk about when it comes to actually
+deploying your site is that you built
+this to be optimized for a laptop or for
+a you know a computer. So if you come
+into your site on the local host before
+you deploy it and you hit F12 or you
+just open up your developer console, you
+can click this button right here to
+switch to mobile view. So this is
+actually what we'd be seeing if I open
+up the site on mobile, which obviously
+is not good. So you would need to go
+back and iterate a little bit and tell
+cloud code to optimize this for mobile.
+Maybe we want the image to be or I keep
+saying image. Maybe we want the video to
+be kind of down here instead. Or maybe
+we just want the font to be displayed in
+one line and then have more stuff down
+here. So that is something to think
+about. you need to be thinking about how
+will this actually look if I'm on a
+mobile device compared to if I am on my
+computer or even like a tablet and stuff
+like that. So the point being cla and
+cloud code don't automatically optimize
+for mobile but if you tell it you need
+to optimize for mobile it will certainly
+help you figure out the way to
+restructure it and you can do all that
+without having it actually impact the
+way that it appears on the web on your
+computer version. So just something else
+I wanted to make sure you guys were
+aware of. And you can see right here
+that we're using aversel.appd domain. So
+if you wanted to change this, you would
+just have to bring in your own custom
+domain. It takes maybe five minutes and
+you can just talk to Claude to figure
+out how to do that. It's super simple.
+But let's hop into some of this other
+stuff now and dive a little bit deeper
+into how to get the most out of Cloud
+Design. So Cloud Design is its own
+product. It it kind of feels like what
+they did with Cloud Co-work, how they
+basically packaged up different
+workflows and different functionality
+into something that's a little bit more
+accessible. You know, cuz everything
+that cloud design does, you could easily
+do in cloud code, but not everyone wants
+to, and they're keeping all of this in
+the same environment. It's built on top
+of Claude Opus 4.7, which has much more
+advanced vision capabilities than the
+previous models did. But of course, the
+Opus 4.7 model does come at a bit of a
+cost, so keep that in mind. You can
+build prototypes, you can build slides,
+you can build landing pages, animated
+promos, so much stuff with design.
+Obviously, today we mainly looked at
+websites, but there's a lot you can do.
+And in order to use it, you have to be
+on a paid plan. You cannot be on a free
+plan. So let's talk about the 2meter
+system. First of all, Cloud Design has
+its own weekly quota. So if I go back
+into my usage, you can see you have a
+current session for your plan. You have
+all models, you have sonnet only, and
+you have your own claw design usage. And
+this is what I blew through pretty
+quick. And so what do the burn rates
+look like? People have been complaining
+that they're getting their session eaten
+up really quick. So, if you're on 20
+bucks a month after one big website and
+one big design system, you might already
+be almost done. If you're on the max
+five times plan, then you're going to
+have, you know, maybe four to five
+series prompts and you might be able to,
+you know, hit the limit pretty quick.
+And then if you're on the 20x plan,
+which I'm on, I was able to build
+probably a few different video projects
+and a few different websites and then I
+started to get really close to the end
+of my limit. So, what actually drains
+your limits the fastest? Well, there are
+a few things. First of all, if you do
+every single thing with 4.7, then you're
+obviously going to be eating more tokens
+than if you were on Sonnet or even Haiku
+for some very minor changes. I
+personally haven't done this myself.
+I've haven't really jumped into the
+wireframes. I always just started with a
+um high fidelity, but I have seen some
+people on X talking about that if you do
+the wireframe first, you're able to
+basically convert it better to high
+fidelity with less iteration. And
+obviously that makes sense. I mean, if
+you're in cloud code, I always talk
+about how the planning phase is so
+important. So get clear on your idea.
+Give as much context up front as far as
+like a sketch and you know maybe like
+that clawed spec that we saw earlier in
+the live example. This information was
+able to make it so much easier for claw
+design to build what we wanted on the
+first try rather than having to iterate
+so much cuz that's where you're going to
+burn a lot of tokens. Also setting up a
+design system without a URL in general
+though design systems will eat a lot.
+So, if I go back to the um app and I go
+into like creating a design system,
+which if I went right here, what this
+does is it lets you set up a system for
+your brand. So, your name, you can put
+in a GitHub repo, you can put in other
+folders, other files, and other logos
+and assets and it will create you
+basically a template so that if you ever
+want to make anything, videos, slides,
+websites, you can create it with that
+brand. So, for example, I made one with
+AI Automation Society, which is what you
+see right here. So every time I use this
+design system, it's going to make
+everything with that typography, with
+those colors, with that background, the
+color scheme, all that kind of stuff.
+Now, when you create a design system,
+once you put in all this information, it
+has to ingest it and it has to create
+that actual spec. And this can eat a
+decent amount of tokens because it's
+going to take like 10 to 15 minutes.
+Now, what's interesting is if you
+actually export this, you can put that
+into cloud code and you can get all of
+that value already. If you come into
+your design system, you can see the type
+of information that's in here. You can
+iterate on it, but you can actually go
+ahead and share this with your team. But
+you could also just download this as a
+zip and then you could give that zip to
+cloud code sort of like we did earlier.
+And now you could say, "Hey, this is the
+design system for a automation society.
+Help me build some other stuff." And you
+could do that then in cloud code as
+well. It's really nothing new. The whole
+concept of having like a design system
+or design MD. It's not a new concept.
+It's just kind of the way that it's
+packaged up here in cloud design makes
+it a lot easier. And then of course,
+like I showed you guys, the ability to
+tweak stuff in the canvas. We talked
+about this, right? Being inside of a
+project and using tweaks and using, you
+know, the comments and the edits, that's
+going to be more precise and it's going
+to give Claude a better idea of what you
+actually want to change. So then it
+doesn't go down the wrong path and waste
+your time and your session. And then
+just think about the fact that you might
+get into some really really long
+threads. Um, I haven't proven this for a
+fact, but just based on the way that
+Claude uses tokens, what I found is that
+if you are in a project, right, and it's
+getting really, really long and you're
+still not getting where you want, maybe
+you want to export this and then open up
+a fresh session and you're kind of not
+really starting at square one again.
+You're iterating upon something that's
+already been built and you're making
+some changes, but now you have fresh
+context because this is likely all
+starting to pollute the context window
+and it might be leading to some rot and
+it might be leading to tokens becoming
+uncashed and then you're basically just
+processing them again. So that's
+something to keep in mind. Now you could
+also come in here and do a /cle and it
+says hey cleared we're ready for the
+next instruction. So that's something
+else to also play around with but I
+can't say with certainty that that
+actually clears all of this from the
+context window. I haven't seen for sure
+yet. So, okay. So, best practices to
+stretch limits. We kind of already
+talked a lot about that. I just showed
+you guys the zip export when you're
+zipping either your actual project or a
+design system. We talked about model by
+stage. So, maybe you can use Opus 4.7 at
+the beginning to plan a little bit or
+when you need some really legit changes,
+but switch over to Sonnet 4.6. I was on
+Sonnet 4.6 for um a lot of a different
+build and it was able to generate the
+video and it was able to create the
+animations and create the slide decks
+and it was working just fine. I think at
+the end of the day like Sonet 4.6 6 is
+really good and if you are super clear
+and super specific about what you want,
+then you can probably get a lot of the
+way done with Sonnet 4.6. So, it's
+definitely worth testing out. And then
+some other real quick tips, one visual
+dimension per prompt. So, don't try to
+throw in a mega prompt with, hey, change
+XYZ, ABC, DE, E, F, and G. Now, I know
+that some people might disagree with
+this because sometimes in cloud code,
+you want to send off one big prompt so
+that it can create its to-do list and it
+can start to iterate. But what I found
+here is that when I ask for multiple
+different big changes in one prompt, it
+only actually does like one or two of
+them well and the rest of them just kind
+of get disregarded. So, I've found more
+success and when I talk about being
+efficient with my prompting, I found
+more success doing one main big change
+per prompt. It's also good to do
+negatives. So, tell it what you don't
+want. Tell it if you don't want these
+fonts or if you don't want these color
+schemes. That way, you don't have to
+correct it later. You can also reference
+real things. So saying something like
+linear 2023 with higher density rather
+than just saying, "Hey, make this clean
+or make this minimalistic." Obviously
+pointing and commenting on things and
+drawing on things and then asking for
+prototypes, flows, demos. And then of
+course you can go ahead and export that
+entire HTML, you could export it to
+Figma, you could export it to Canva, you
+could export it to PowerPoint, you can
+get it out of there and then make the
+tweaks you need to if you don't actually
+need to use cloud design for things that
+you could do pretty easily and pretty
+quickly by hand. So some other things to
+keep in mind, file uploads. So, I have
+been able to upload MP4s like you guys
+have seen. I've been able to edit some
+videos, but there is a cap. And I think
+it might be 30 megabytes. It might be
+40, it might be a little more, but if
+you try to go and upload like a 5minute
+video, it's probably not going to let
+you. There also might have just been a
+bug because this is in research preview
+and because everyone's using it. But for
+the most part, you can upload lots of
+different assets. And the more things
+that you're able to upload right away,
+the more context it's going to have and
+the less you're going to have to repeat
+yourself and fix things. And then here
+are just some other quick limitations to
+flag. Not going to read all these off
+because I feel like I've hit on a lot of
+these already, but take a quick pause if
+you want to look at this. And like I
+said, that free doc that I drop in the
+community will have a lot more of this
+kind of stuff as well. All right, so
+that is going to do it for today. Now,
+what you can do next is watch this video
+right up here where I talk about other
+website hacks and specifically in cloud
+code. Because what might happen is if
+you burn through your limit in cloud
+design, but you want to keep iterating,
+you want to keep building, just do what
+I showed you. Export your cloud design
+project, get it into cloud code, and now
+you can just keep working on cloud code
+because you have more usage. And then
+just wait till your usage resets on
+design and then take it back into
+design. So like I said, watch that video
+on screen. I'll see you guys over there.
+And thanks for watching. Give it a like
+if it helped.
